@@ -93,19 +93,18 @@
 
 <p align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=coding-chez&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=coding-chez&theme=midnight-purple&hide_border=false)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=coding-chez&theme=midnight-purple&hide_border=false) ![](https://github-contributor-stats.vercel.app/api?username=coding-chez&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 </p>
 
-<p align="center">
-  
- ![](https://github-contributor-stats.vercel.app/api?username=coding-chez&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=coding-chez&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div style="text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-chez&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</div>
 
-</p>
 
-<p align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=coding-chez&theme=midnight-purple&no-frame=false&no-bg=false&margin-w=4)
-</p>
+<div style="text-align: center;">
+  <img src="https://github-profile-trophy.vercel.app/?username=coding-chez&theme=midnight-purple&no-frame=false&no-bg=false&margin-w=4" />
+</div>
+
 
 
 <p align="center">
