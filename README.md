@@ -91,11 +91,21 @@
 🌷 𝒮𝓉𝒶𝓉𝓈 🌷
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=coding-chez&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=coding-chez&theme=midnight-purple&hide_border=false)<br/>
+<p align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=coding-chez&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=coding-chez&theme=midnight-purple&hide_border=false)
+</p>
+
+<p align="center">
+  
  ![](https://github-contributor-stats.vercel.app/api?username=coding-chez&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=coding-chez&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://github-profile-trophy.vercel.app/?username=coding-chez&theme=midnight-purple&no-frame=false&no-bg=false&margin-w=4)
+</p>
 
+<p align="center">
+  
+![](https://github-profile-trophy.vercel.app/?username=coding-chez&theme=midnight-purple&no-frame=false&no-bg=false&margin-w=4)
+</p>
 
 
 <p align="center">
@@ -105,6 +115,7 @@
           ✉️ 𝙴𝚖𝚊𝚒𝚕: 𝚌𝚑𝚎𝚜𝚝𝚒𝚗𝚎𝚖𝚊𝚢𝚌𝚊𝚋𝚒𝚜𝚘@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖
           ✌︎ 𝚂𝚘𝚌𝚒𝚊𝚕𝚜: 𝚌𝚑𝚎𝚜𝚝𝚒𝚗𝚎𝚌𝚊𝚋𝚒𝚜𝚘
           🌐 𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘: [𝚠𝚘𝚛𝚔-𝚒𝚗-𝚙𝚛𝚘𝚐𝚛𝚎𝚜𝚜]
-          
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/cabiso.chestine) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chestinecabiso) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chestine-cabiso) 
-          
+
+<p align="center">
+
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/cabiso.chestine) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chestinecabiso) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chestine-cabiso) </p>        
