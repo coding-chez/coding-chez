@@ -28,13 +28,16 @@
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=plastic&logo=Dribbble&logoColor=white) 
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=plastic&logo=Github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
+![Steam](https://img.shields.io/badge/Steam-%23000000.svg?style=plastic&logo=steam&logoColor=white)
 
 </div>
 
 
 <div align="center">
 
-🌷 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 🌷  
+<h2> 🌷 <b> 𝐀𝐁𝐎𝐔𝐓 𝐌𝐄 </b> 🌷  </h2>
 
 𝙸'𝚖 𝚓𝚞𝚜𝚝 𝚊 𝚐𝚒𝚛𝚕 ~  
 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚝𝚑𝚎 𝚟𝚊𝚜𝚝 𝚕𝚊𝚢𝚎𝚛 𝚘𝚏 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢, 𝚘𝚗𝚎 𝚋𝚒𝚝 𝚊𝚝 𝚊 𝚝𝚒𝚖𝚎! 💻✨  
@@ -59,9 +62,11 @@
 
 
 
-<p align="center">
-🌟 𝒲𝒽𝒶𝓉 𝐼'𝓂 𝒸𝓊𝓇𝓇𝑒𝓃𝓉𝓁𝓎 𝓊𝓅 𝓉𝑜 🌟
-</p>
+<div align="center">
+  
+<h2> 🌟 <b> 𝐖𝐇𝐀𝐓 𝐈'𝐌 𝐂𝐔𝐑𝐑𝐄𝐍𝐓𝐋𝐘 𝐔𝐏 𝐓𝐎 </b> 🌟 </h2>
+
+</div>
 
 🌸 𝙼𝚘𝚝𝚝𝚘:
           
@@ -111,22 +116,22 @@
              ✧ 𝙾𝚛𝚐𝚊𝚗𝚒𝚣𝚊𝚝𝚒𝚘𝚗'𝚜 𝚙𝚞𝚋𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝚖𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝚜
 
 
-<p align="center">
-🌷 𝒮𝓉𝒶𝓉𝓈 🌷
-</p>
+<div align="center">
+<h2> 📊 <b> 𝐒𝐓𝐀𝐓𝐒 </b> 📊 </h2>
+</div>
 
   
 <div align="center">
 
 ![coding-chez's GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=coding-chez&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
-![coding-chez's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=coding-chez&theme=midnight-purple&hide_border=false)  
+![coding-chez's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=coding-chez&theme=midnight-purple&hide_border=false)
 
 ![coding-chez's GitHub stats](https://github-readme-stats.vercel.app/api?username=coding-chez&show_icons=true&theme=midnight-purple)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coding-chez&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 
-![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=coding-chez&theme=midnight-purple&no-frame=false&no-bg=false&margin-w=4)
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=coding-chez&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
 
@@ -181,9 +186,9 @@
 
 </pre>
 
-<p align="center">
-📫 𝓗𝓸𝔀 𝓽𝓸 𝓡𝓮𝓪𝓬𝓱 𝓜𝓮
-</p>
+<div align="center">
+<h2> 📥 <b> 𝐇𝐎𝐖 𝐓𝐎 𝐑𝐄𝐀𝐂𝐇 𝐌𝐄 </b> 📤 </h2>
+</div>
 
           ✉️ 𝙴𝚖𝚊𝚒𝚕: 𝚌𝚑𝚎𝚜𝚝𝚒𝚗𝚎𝚖𝚊𝚢𝚌𝚊𝚋𝚒𝚜𝚘@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖
           ✌︎ 𝚂𝚘𝚌𝚒𝚊𝚕𝚜: 𝚌𝚑𝚎𝚜𝚝𝚒𝚗𝚎𝚌𝚊𝚋𝚒𝚜𝚘
@@ -195,6 +200,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/cabiso.chestine) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chestinecabiso) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chestine-cabiso)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shes_teen) 
 
 </div>
 
