@@ -124,11 +124,11 @@
   
 <div align="center">
 
-![coding-chez's GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=coding-chez&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
+![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=coding-chez&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
 [![GitHub Streak](https://github-readme-streak-stats-two-sand.vercel.app?user=coding-chez&theme=midnight-purple&border_radius=15)](https://git.io/streak-stats)
 
-![coding-chez's GitHub stats](https://github-readme-stats.vercel.app/api?username=coding-chez&show_icons=true&theme=midnight-purple)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coding-chez&show_icons=true&theme=midnight-purple)
 
 ![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=coding-chez&theme=midnight-purple&layout=compact)
 
