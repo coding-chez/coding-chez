@@ -1,6 +1,7 @@
-<h2 align="center">
-  👋 Hi, I’m @coding-chez
-</h2>
+<h1 align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=100&size=40&letterSpacing=&duration=1000&pause=700&color=9276F7&center=true&vCenter=true&width=435&lines=helaur+helaur+%F0%9F%91%8B%F0%9F%8F%BB;welcome+to+my+profile+%3A%3E;I'm+coding-chez+%F0%9F%A7%B8%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+</h1>
 
 <p align="center">
           
@@ -20,6 +21,8 @@
 ![AssemblyScript](https://img.shields.io/badge/Assembly%20-%23000000.svg?style=plastic&logo=assemblyscript&logoColor=white) 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=plastic&logo=mysql&logoColor=white) 
+![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=plastic&logo=Github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=plastic&logo=Adobe%20Photoshop&logoColor=white) 
@@ -27,8 +30,6 @@
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=plastic&logo=Figma&logoColor=white) 
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=plastic&logo=Dribbble&logoColor=white) 
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) 
-![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=plastic&logo=Github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
 ![Steam](https://img.shields.io/badge/Steam-%23000000.svg?style=plastic&logo=steam&logoColor=white)
 
