@@ -1,6 +1,6 @@
 <h1 align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=100&size=40&letterSpacing=&duration=1000&pause=700&color=9276F7&center=true&vCenter=true&width=435&lines=helaur+helaur+%F0%9F%91%8B%F0%9F%8F%BB;welcome+to+my+profile+%3A%3E;I'm+coding-chez+%F0%9F%A7%B8%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Libre+Baskerville&size=30&duration=1500&pause=300&color=BF64F7&center=true&vCenter=true&width=435&lines=helaur+helaur!;i'm+coding+chez+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%E2%98%86!;c'mon+vomanos%E2%80%93;evribadi+lessgaww!!)](https://git.io/typing-svg)
 </h1>
 
 <p align="center">
@@ -8,22 +8,36 @@
 ![Pixilart - Live on](https://github.com/user-attachments/assets/daceb992-5dd5-4cb1-b033-958b7d17bbfe)
 </p>
 
-<div align="center">
+<div align="left">
+<h2> 💻 <b> 𝐋𝐄𝐅𝐓 𝐇𝐄𝐌𝐈𝐒𝐏𝐇𝐄𝐑𝐄 𝐎𝐅 𝐓𝐇𝐄 𝐁𝐑𝐀𝐈𝐍 </b> 💻 </h2>
+  
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=C&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) 
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white) 
+![AssemblyScript](https://img.shields.io/badge/Assembly%20Script-%23000000.svg?style=flat&logo=assemblyscript&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase) 
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) 
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) 
+![JavaFX](https://img.shields.io/badge/JavaFX-%23FF0000.svg?style=flat&logo=javafx&logoColor=white) 
+![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
-![PHP](https://img.shields.io/badge/PhP-%23777BB4.svg?style=plastic&logo=php&logoColor=white) 
-![AssemblyScript](https://img.shields.io/badge/Assembly%20-%23000000.svg?style=plastic&logo=assemblyscript&logoColor=white) 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=plastic&logo=mysql&logoColor=white) 
-![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=plastic&logo=Github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+</div>
 
+<div align="right">  
+<h2> 🎨 <b> 𝐑𝐈𝐆𝐇𝐓 𝐇𝐄𝐌𝐈𝐒𝐏𝐇𝐄𝐑𝐄 𝐎𝐅 𝐓𝐇𝐄 𝐁𝐑𝐀𝐈𝐍 </b> 🎨 </h2>
+  
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=plastic&logo=Adobe%20Photoshop&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 
@@ -35,18 +49,21 @@
 
 </div>
 
+<p align="center">
+  
+  ![w8ZJLtJbmuph](https://github.com/user-attachments/assets/197668a0-b205-4d1a-901a-ff3373c615d8)
+</p>
 
 <div align="center">
 
 <h2> 🌷 <b> 𝐀𝐁𝐎𝐔𝐓 𝐌𝐄 </b> 🌷  </h2>
 
 𝙸'𝚖 𝚓𝚞𝚜𝚝 𝚊 𝚐𝚒𝚛𝚕 ~  
-𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚝𝚑𝚎 𝚟𝚊𝚜𝚝 𝚕𝚊𝚢𝚎𝚛 𝚘𝚏 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢, 𝚘𝚗𝚎 𝚋𝚒𝚝 𝚊𝚝 𝚊 𝚝𝚒𝚖𝚎! 💻✨  
+𝚒𝚗 𝚝𝚑𝚎 𝚏𝚒𝚎𝚝𝚕𝚍 𝑜𝚏 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚍𝚎,
+𝚐𝚊𝚝𝚝𝚎𝚛𝚖𝚎𝚗𝚝 𝚌𝚘𝚖𝚙𝚎𝚝𝚎𝚗𝚌𝚎𝚜 𝚘𝚗𝚎 𝚜𝚝𝚎𝚙 𝚊𝚝 𝚊 𝚝𝚒𝚖𝚎! 💻✨  
 
 👩‍💻 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚊 𝙱𝚂 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚂𝚝𝚞𝚍𝚎𝚗𝚝  
-
 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝚊𝚝 𝙲𝚎𝚋𝚞 𝙸𝚗𝚜𝚝𝚒𝚝𝚞𝚝𝚎 𝚘𝚏 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢-𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢  
-
 🌟 𝙳𝚛𝚎𝚊𝚖 𝚌𝚊𝚛𝚎𝚎𝚛𝚜: 𝚄𝙸/𝚄𝚇 𝙳𝚎𝚜𝚒𝚐𝚗𝚎𝚛 | 𝙵𝚛𝚘𝚗𝚝 𝙴𝚗𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 | 𝙶𝚊𝚖𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 
 🌍 𝙰𝚜𝚙𝚒𝚛𝚒𝚗𝚐 𝚝𝚘 𝚋𝚎: 𝙰 𝙳𝚒𝚐𝚒𝚝𝚊𝚕 𝙽𝚘𝚖𝚊𝚍 𝚜𝚘𝚖𝚎𝚍𝚊𝚢, –𝚛𝚎𝚊𝚍𝚢 𝚝𝚘 𝚠𝚘𝚛𝚔 𝚊𝚗𝚍 𝚎𝚡𝚙𝚕𝚘𝚛𝚎 𝚝𝚑𝚎 𝚠𝚘𝚛𝚕𝚍 𝚏𝚛𝚘𝚖 𝚊𝚗𝚢𝚠𝚑𝚎𝚛𝚎 :>
@@ -75,45 +92,18 @@
           𝐭𝐡𝐞𝐢𝐫 𝐞𝐜𝐡𝐨𝐞𝐬 𝐫𝐞𝐬𝐨𝐧𝐚𝐭𝐞 𝐥𝐨𝐮𝐝𝐞𝐫– 𝐰𝐡𝐞𝐧 𝐩𝐞𝐫𝐜𝐞𝐢𝐯𝐞𝐝 𝐭𝐡𝐫𝐨𝐮𝐠𝐡 
           𝐭𝐡𝐞 𝐞𝐲𝐞𝐬 𝐨𝐟 𝐭𝐡𝐞 𝐛𝐞𝐡𝐨𝐥𝐝𝐞𝐫.
           
-🌸 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐:
+🌸 𝙷𝚘𝚗𝚒𝚗𝚐:
 
-             ✧ 𝟹 𝙲'𝚜: 𝙲, 𝙲++, 𝙲#
-          
-             ✧ 𝟹 𝙶𝚘𝚊𝚝𝚜: 𝙷𝚃𝙼𝙻, 𝙲𝚂𝚂, 𝙹𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝
-
-             ✧ 𝙿𝚢𝚝𝚑𝚘𝚗, 𝚖𝚢𝚂𝚀𝙻, 𝙿𝙷𝙿
-          
-             ✧ 𝙰𝚜𝚜𝚎𝚖𝚋𝚕𝚢 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 & 𝚃𝚞𝚛𝚋𝚘 𝙰𝚜𝚜𝚎𝚖𝚋𝚕𝚎𝚛  
-          
-             ✧ 𝙹𝚊𝚟𝚊 𝙾𝙾𝙿 (𝙾𝚋𝚓𝚎𝚌𝚝-𝙾𝚛𝚒𝚎𝚗𝚝𝚎𝚍 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐)
-
-🌸 𝙸𝙳𝙴'𝚜 𝚊𝚗𝚍 𝙴𝚍𝚒𝚝𝚒𝚗𝚐 𝙰𝙿𝙿'𝚜 𝙸 𝚞𝚜𝚎: 
-
-             ✧ 𝙸𝚗𝚝𝚎𝚕𝚕𝚒𝙹 𝙸𝙳𝙴𝙰 𝙲𝙴
-          
-             ✧ 𝚂𝚞𝚋𝚕𝚒𝚖𝚎 𝚃𝚎𝚡𝚝
-          
-             ✧ 𝙳𝙾𝚂𝙱𝚘𝚡
-          
-             ✧ 𝚅𝚒𝚜𝚞𝚊𝚕 𝚂𝚝𝚞𝚍𝚒𝚘 𝙲𝚘𝚍𝚎
-          
-             ✧ 𝙽𝚘𝚝𝚎𝚙𝚊𝚍++
-          
-             ✧ 𝙵𝚒𝚐𝚖𝚊
-
-             ✧ 𝙲𝚊𝚗𝚟𝚊
-          
-             ✧ 𝙰𝚍𝚘𝚋𝚎 𝙿𝚑𝚘𝚝𝚘𝚜𝚑𝚘𝚙
-          
-             ✧ 𝙰𝚍𝚘𝚋𝚎 𝙸𝚕𝚕𝚞𝚜𝚝𝚛𝚊𝚝𝚘𝚛
-
+             ✧ 𝙲, 𝙲++, 𝙲#
+             ✧ 𝙷𝚃𝙼𝙻, 𝙲𝚂𝚂, 𝙹𝚊𝚟𝚊𝚜𝚌𝚛𝚒𝚙𝚝
+             ✧ 𝙰𝚙𝚊𝚌𝚑𝚎, 𝚖𝚢𝚂𝚀𝙻, 𝙿𝙷𝙿
+             ✧ 𝙰𝚜𝚜𝚎𝚖𝚋𝚕𝚢, 𝚁𝚞𝚜𝚝    
+             ✧ 𝙺𝚘𝚝𝚕𝚒𝚗, 𝙹𝚊𝚟𝚊
 
 🌸 𝙲𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚗𝚐 𝙾𝚗:  
 
              ✧ 𝙸𝚗𝚝𝚎𝚛𝚊𝚌𝚝𝚒𝚟𝚎 𝚌𝚘𝚍𝚒𝚗𝚐 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜  
-          
-             ✧ 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 𝚝𝚑𝚊𝚝 𝚕𝚎𝚝𝚜 𝚖𝚎 𝚋𝚎 𝚌𝚛𝚎𝚊𝚝𝚒𝚟𝚎 :>  
-
+             ✧ 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 𝚒𝚗𝚜𝚙𝚒𝚛𝚊𝚝𝚒𝚟𝚎 𝚝𝚑𝚊𝚝 𝚕𝚎𝚝𝚜 𝚖𝚎 𝚟𝚒𝚜𝚞𝚊𝚕𝚒𝚣𝚎 𝚊𝚗𝚍 𝚌𝚛𝚎𝚊𝚝𝚎! :>  
              ✧ 𝙾𝚛𝚐𝚊𝚗𝚒𝚣𝚊𝚝𝚒𝚘𝚗'𝚜 𝚙𝚞𝚋𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝚖𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝚜
 
 
@@ -187,6 +177,7 @@
 
 <div align="center">
 <h2> 📥 <b> 𝐇𝐎𝐖 𝐓𝐎 𝐑𝐄𝐀𝐂𝐇 𝐌𝐄 </b> 📤 </h2>
+  
 </div>
 
           ✉️ 𝙴𝚖𝚊𝚒𝚕: 𝚌𝚑𝚎𝚜𝚝𝚒𝚗𝚎𝚖𝚊𝚢𝚌𝚊𝚋𝚒𝚜𝚘@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖
@@ -202,4 +193,3 @@
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shes_teen) 
 
 </div>
-
