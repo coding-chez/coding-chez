@@ -122,6 +122,8 @@
 
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=coding-chez&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
+![github-user-contribution](https://github.com/user-attachments/assets/d16be20b-1608-4c1d-a83d-7ac52a6a2e7d)<h1 align="center">
+
 </div>
 
 
