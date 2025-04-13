@@ -128,7 +128,7 @@
 <img
   src="https://render.gitanimals.org/farms/coding-chez"
   width="7000px"
-  height="400px"
+  height="500px"
 />
 </a>
 
