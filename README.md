@@ -124,6 +124,14 @@
 
 ![github-user-contribution](https://github.com/user-attachments/assets/d16be20b-1608-4c1d-a83d-7ac52a6a2e7d)<h1 align="center">
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=coding-chez&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/coding-chez"
+  width="600"
+  height="300"
+/>
+</a>
+
 </div>
 
 
