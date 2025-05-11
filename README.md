@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Libre+Baskerville&size=30&duration=1500&pause=300&color=BF64F7&center=true&vCenter=true&width=435&lines=helaur+helaur!;i'm+coding+chez+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%E2%98%86!;c'mon+vomanos%E2%80%93;evribadi+lessgaww!!)](https://git.io/typing-svg)
 </h1>
 
+
 <p align="center">
           
 ![Pixilart - Live on](https://github.com/user-attachments/assets/daceb992-5dd5-4cb1-b033-958b7d17bbfe)
@@ -121,7 +122,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats-two-sand.vercel.app?user=coding-chez&theme=midnight-purple&border_radius=4.5)](https://git.io/streak-stats)
 
-![Github Trophies](https://github-profile-trophy.vercel.app/?username=coding-chez&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=coding-chez&theme=tokyonight&no-frame=false&no-bg=false&column=3&margin-w=15&margin-h=15)
 
 ![github-user-contribution](https://github.com/user-attachments/assets/d16be20b-1608-4c1d-a83d-7ac52a6a2e7d)<h1 align="center">
 
