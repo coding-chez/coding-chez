@@ -133,6 +133,15 @@
 />
 </a>
 
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/700910881110066498/draw"
+        width="7000px"
+        height="500px"
+        alt="gitanimals"
+      />
+    </a>
+
 </div>
 
 
