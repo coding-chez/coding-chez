@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Libre+Baskerville&size=30&duration=1500&pause=300&color=BF64F7&center=true&vCenter=true&width=435&lines=helaur+helaur!;i'm+coding+chez+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%E2%98%86!;c'mon+vomanos%E2%80%93;evribadi+lessgaww!!)](https://git.io/typing-svg)
 </h1>
 
-
 <p align="center">
           
 ![Pixilart - Live on](https://github.com/user-attachments/assets/daceb992-5dd5-4cb1-b033-958b7d17bbfe)
