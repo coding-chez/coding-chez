@@ -114,7 +114,7 @@
   
 <div align="center">
 
-![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=coding-chez&theme=midnight-purple&layout=compact&langs_count=20)
+![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=coding-chez&theme=midnight-purple&layout=compact&langs_count=30)
 
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=coding-chez&theme=tokyonight&no-frame=false&no-bg=false&column=3&margin-w=15&margin-h=15)
 
