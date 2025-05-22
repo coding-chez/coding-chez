@@ -119,7 +119,9 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coding-chez&show_icons=true&theme=midnight-purple)
 
-[![GitHub Streak](https://github-readme-streak-stats-two-sand.vercel.app?user=coding-chez&theme=midnight-purple&border_radius=4.5)](https://git.io/streak-stats)
+![](https://nirzak-streak-stats.vercel.app/?user=coding-chez&theme=midnight-purple&border_radius=4.5)
+<br/>
+
 
 ![github-user-contribution](https://github.com/user-attachments/assets/d16be20b-1608-4c1d-a83d-7ac52a6a2e7d)<h1 align="center">
 
