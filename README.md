@@ -110,13 +110,12 @@
 <div align="center">
 <h2> 📊 <b> 𝐒𝐓𝐀𝐓𝐒 </b> 📊 </h2>
 </div>
-
   
 <div align="center">
 
-![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=coding-chez&theme=midnight-purple&layout=compact&langs_count=30)
+![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=coding-chez&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20)
 
-![Github Trophies](https://github-profile-trophy.vercel.app/?username=coding-chez&theme=tokyonight&no-frame=false&no-bg=false&column=3&margin-w=15&margin-h=15)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=coding-chez&theme=tokyonight&no-frame=false&no-bg=false&column=3&margin-w=15&margin-h=15)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coding-chez&show_icons=true&theme=midnight-purple)
 
