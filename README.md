@@ -8,8 +8,6 @@
 ![Pixilart - Live on](https://github.com/user-attachments/assets/daceb992-5dd5-4cb1-b033-958b7d17bbfe)
 </p>
 
-<div align="left">
-<h2> 💻 <b> 𝐋𝐄𝐅𝐓 𝐇𝐄𝐌𝐈𝐒𝐏𝐇𝐄𝐑𝐄 𝐎𝐅 𝐓𝐇𝐄 𝐁𝐑𝐀𝐈𝐍 </b> 💻 </h2>
   
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=C&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
@@ -37,7 +35,6 @@
 </div>
 
 <div align="right">  
-<h2> 🎨 <b> 𝐑𝐈𝐆𝐇𝐓 𝐇𝐄𝐌𝐈𝐒𝐏𝐇𝐄𝐑𝐄 𝐎𝐅 𝐓𝐇𝐄 𝐁𝐑𝐀𝐈𝐍 </b> 🎨 </h2>
   
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=plastic&logo=Adobe%20Photoshop&logoColor=white) 
@@ -63,7 +60,6 @@
 𝚒𝚗 𝚝𝚑𝚎 𝚏𝚒𝚎𝚝𝚕𝚍 𝑜𝚏 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚍𝚎,
 𝚐𝚊𝚝𝚝𝚎𝚛𝚖𝚎𝚗𝚝 𝚌𝚘𝚖𝚙𝚎𝚝𝚎𝚗𝚌𝚎𝚜 𝚘𝚗𝚎 𝚜𝚝𝚎𝚙 𝚊𝚝 𝚊 𝚝𝚒𝚖𝚎! 💻✨  
 
-👩‍💻 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚊 𝙱𝚂 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚂𝚝𝚞𝚍𝚎𝚗𝚝  
 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝚊𝚝 𝙲𝚎𝚋𝚞 𝙸𝚗𝚜𝚝𝚒𝚝𝚞𝚝𝚎 𝚘𝚏 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢-𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢  
 🌟 𝙳𝚛𝚎𝚊𝚖 𝚌𝚊𝚛𝚎𝚎𝚛𝚜: 𝚄𝙸/𝚄𝚇 𝙳𝚎𝚜𝚒𝚐𝚗𝚎𝚛 | 𝙵𝚛𝚘𝚗𝚝 𝙴𝚗𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 | 𝙶𝚊𝚖𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 
@@ -102,24 +98,13 @@
 
 🌸 𝙲𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚗𝚐 𝙾𝚗:  
 
-             ✧ 𝙸𝚗𝚝𝚎𝚛𝚊𝚌𝚝𝚒𝚟𝚎 𝚌𝚘𝚍𝚒𝚗𝚐 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜  
              ✧ 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 𝚒𝚗𝚜𝚙𝚒𝚛𝚊𝚝𝚒𝚟𝚎 𝚝𝚑𝚊𝚝 𝚕𝚎𝚝𝚜 𝚖𝚎 𝚟𝚒𝚜𝚞𝚊𝚕𝚒𝚣𝚎 𝚊𝚗𝚍 𝚌𝚛𝚎𝚊𝚝𝚎! :>  
-             ✧ 𝙾𝚛𝚐𝚊𝚗𝚒𝚣𝚊𝚝𝚒𝚘𝚗'𝚜 𝚙𝚞𝚋𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝚖𝚊𝚝𝚎𝚛𝚒𝚊𝚕𝚜
 
 
-<div align="center">
-<h2> 📊 <b> 𝐒𝐓𝐀𝐓𝐒 </b> 📊 </h2>
-</div>
   
 <div align="center">
 
-![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=coding-chez&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=coding-chez&theme=tokyonight&no-frame=false&no-bg=false&column=3&margin-w=15&margin-h=15)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coding-chez&show_icons=true&theme=midnight-purple)
-
-![](https://nirzak-streak-stats.vercel.app/?user=coding-chez&theme=midnight-purple&border_radius=4.5)
 <br/>
 
 
