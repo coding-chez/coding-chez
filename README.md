@@ -1,78 +1,123 @@
-<h1 align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Libre+Baskerville&size=30&duration=1500&pause=300&color=BF64F7&center=true&vCenter=true&width=435&lines=helaur+helaur!;i'm+chestine+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%E2%98%86!;c'mon+vomanos%E2%80%93;evribadi+lessgaww!!)](https://git.io/typing-svg)
-</h1>
+<div align="center">
 
-<p align="center">
-          
-![Pixilart - Live on](https://github.com/user-attachments/assets/daceb992-5dd5-4cb1-b033-958b7d17bbfe)
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,40:1D4ED8,100:60A5FA&height=220&section=header&text=Hello,%20I'm%20Chestine!&fontSize=48&fontColor=EAF4FF&fontAlignY=38&desc=welcome%20to%20my%20little%20corner%20of%20the%20internet%20%E2%98%86&descSize=14&descAlignY=60" width="100%"/>
 
-<div align="center">  
-  
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%2300599C.svg?style=flat&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![AssemblyScript](https://img.shields.io/badge/Assembly%20Script-%23000000.svg?style=flat&logo=assemblyscript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-%23FF0000.svg?style=flat&logo=javafx&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&size=17\&duration=2800\&pause=900\&color=60A5FA\&center=true\&vCenter=true\&width=500\&lines=designing+with+curiosity;building+things+with+code;learning+by+making+mistakes;one+little+commit+at+a+time)](https://git.io/typing-svg)
+
+### `chestine cabiso` · `coding-chez`
+
+*creative thinker. code explorer. still figuring things out, one commit at a time.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-coding--chez-1D4ED8?style=flat-square\&logo=github)](https://github.com/coding-chez)
+[![Profile Views](https://komarev.com/ghpvc/?username=coding-chez\&style=flat-square\&color=2563EB\&label=PROFILE+VIEWS)](https://github.com/coding-chez)
 
 </div>
 
-<div align="center">  
+## 0.1 ~ `a little about me`
+
+```text
+name       chestine may cabiso
+alias      chez / coding-chez
+currently  3rd year it student
+school     cebu institute of technology-university
+based in   cordova, cebu
+
+```
+<div align="center">
   
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=plastic&logo=Adobe%20Photoshop&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=plastic&logo=Figma&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
+a student who enjoys bringing ideas to life through a combination of design, code, and a little bit of imagination.
+particularly interested in the intersection of **technology and visual creativity**.
+don't necessarily have everything figured out yet, but always collecting experiences, learning new things, and turning little ideas into something tangible.
 
 </div>
 
-<p align="center">
-  
-  ![w8ZJLtJbmuph](https://github.com/user-attachments/assets/197668a0-b205-4d1a-901a-ff3373c615d8)
-</p>
+### things i'm growing into
+
+* 🎨 graphic design & visual communication
+* 🖥️ ui/ux design & frontend development
+* 🎮 game development & interactive experiences
+* 🌐 web and application development
+* 🌍 aspiring digital nomad - working and exploring from anywhere
+
+> still a work in progress, and that's kind of the point.
+
+## 0.2 ~ `my creative + technical toolkit`
 
 <div align="center">
 
-<h2>  <b> 𝐀𝐁𝐎𝐔𝐓 𝐌𝐄 </b>  </h2>
+### programming & development
 
-𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝚊𝚝 𝙲𝚎𝚋𝚞 𝙸𝚗𝚜𝚝𝚒𝚝𝚞𝚝𝚎 𝚘𝚏 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢-𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢
+![Java](https://img.shields.io/badge/Java-2563EB?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1D4ED8?style=for-the-badge\&logo=javascript\&logoColor=white)
+![C](https://img.shields.io/badge/C-2563EB?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-1D4ED8?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-2563EB?style=for-the-badge\&logo=csharp\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1D4ED8?style=for-the-badge\&logo=python\&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-2563EB?style=for-the-badge\&logo=kotlin\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-1D4ED8?style=for-the-badge\&logo=php\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-2563EB?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1D4ED8?style=for-the-badge\&logo=css3\&logoColor=white)
 
-𝙶𝚛𝚊𝚙𝚑𝚒𝚌 𝙳𝚎𝚜𝚒𝚐𝚗𝚎𝚛 | 𝚄𝙸/𝚄𝚇 𝙳𝚎𝚜𝚒𝚐𝚗𝚎𝚛 | 𝙵𝚛𝚘𝚗𝚝 𝙴𝚗𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 | 𝙶𝚊𝚖𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 | 𝚆𝚎𝚋/𝙰𝚙𝚙 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
+### frameworks, databases & tools
 
-𝙰𝚜𝚙𝚒𝚛𝚒𝚗𝚐 𝙳𝚒𝚐𝚒𝚝𝚊𝚕 𝙽𝚘𝚖𝚊𝚍; 𝚝𝚘 𝚠𝚘𝚛𝚔 𝚊𝚗𝚍 𝚎𝚡𝚙𝚕𝚘𝚛𝚎 𝚝𝚑𝚎 𝚠𝚘𝚛𝚕𝚍 𝚏𝚛𝚘𝚖 𝚊𝚗𝚢𝚠𝚑𝚎𝚛𝚎 in the world :>
+![React](https://img.shields.io/badge/React-2563EB?style=for-the-badge\&logo=react\&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-1D4ED8?style=for-the-badge\&logo=java\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-2563EB?style=for-the-badge\&logo=springboot\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1D4ED8?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-2563EB?style=for-the-badge\&logo=firebase\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1D4ED8?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-2563EB?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-1D4ED8?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
+### design & creative tools
+
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-2563EB?style=for-the-badge\&logo=adobeillustrator\&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-1D4ED8?style=for-the-badge\&logo=adobephotoshop\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-2563EB?style=for-the-badge\&logo=figma\&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-1D4ED8?style=for-the-badge\&logo=canva\&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-2563EB?style=for-the-badge\&logo=notion\&logoColor=white)
 
 </div>
 
+## 0.3 ~ `projects i'm building`
+
+*little ideas, school projects, and experiments currently finding their shape.*
+
+| Project          | Description                                                                                            | Stack                |     Status    |
+| :--------------- | :----------------------------------------------------------------------------------------------------- | :------------------- | :-----------: |
+| **Cabana**       | a dormitory management system concept for organizing boarding house operations and tenant information. | Java · JavaFX        | `development` |
+| **WildcatsKnow** | a searchable, student-oriented FAQ platform for navigating common CIT-U questions and resources.       | Web technologies     |   `concept`   |
+| **Isdali**       | a lightweight seafood stock and price visibility concept for wet-market buyers and vendors.            | Web technologies     |   `concept`   |
+
+> project statuses reflect my development notes, not verified GitHub commit activity. the concepts are included as part of my current creative exploration.
+
+## 0.4 ~ `main/side projects` 
+
+*completed/ongoing school or personal projects.*
+
+| Repository                                                    | What it is                                                   | Language |               Directory                           |
+| :------------------------------------------------------------ | :----------------------------------------------------------- | :------- | :-----------------------------------------------: |
+| [OOP2-Capstone](https://github.com/coding-chez/OOP2-Capstone) | TypeWiz — a Typer Shark-inspired game with a wizardry twist. | Java     | [↗](https://github.com/coding-chez/OOP2-Capstone) |
+| [deck-of-codes](https://github.com/coding-chez/deck-of-codes) | a compilation of coding activities and academic exercises.   | Assembly | [↗](https://github.com/coding-chez/deck-of-codes) |
+| [OperationBoom](https://github.com/coding-chez/OperationBoom) | mobile development final project.                            | Kotlin   | [↗](https://github.com/coding-chez/OperationBoom) |
 
 
-  
+<div align="center">
 
+[![Explore Repositories](https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-1D4ED8?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/coding-chez?tab=repositories)
 
+</div>
 
-<br/>
+## 0.5 ~ `git stats`
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=coding-chez&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=3B82F6&text_color=BFDBFE&ring_color=60A5FA&include_all_commits=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-chez&layout=compact&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=BFDBFE&langs_count=8" />
+
+<img src="https://streak-stats.demolab.com?user=coding-chez&theme=transparent&hide_border=true&ring=60A5FA&fire=3B82F6&currStreakLabel=60A5FA&sideLabels=BFDBFE&dates=94A3B8&currStreakNum=EAF4FF&sideNums=EAF4FF" width="70%"/>
+
+</div>
 
 <div align="center">
   
@@ -94,75 +139,70 @@
         alt="gitanimals"
       />
     </a>
+    
+</div>
+
+## 0.6 ~ `witching hour`
+
+*since we don't want ourselves to be a prisoner of only one duty...*
+
+<div align="center">
+
+| witching activities           | current status                           |
+| :---------------------------- | :--------------------------------------- |
+| graphic design                | always finding another detail to fix     |
+| collecting random thoughts    | `ongoing.` no storage limit yet          |
+| photography & little memories | keeping moments, not just pictures       |
+| creative writing              | one thought away from a whole reflection |
+| making little things          | usually starts with “what if?”           |
+| chasing random ideas          | occasionally turns into a project        |
+| digital nomad dream           | `loading...`                             |
+| figuring life out             | still waiting for the documentation      |
 
 </div>
 
-<pre align="center">
+> there should always be a little room for things that have no deadline.
 
-  ⠀⠀⠀⠀⠀⠀⢀⣰⣀⠀⠀⠀⠀⠀⠀⠀⠀
-⢀⣀⠀⠀⠀⢀⣄⠘⠀⠀⣶⡿⣷⣦⣾⣿⣧
-⢺⣾⣶⣦⣰⡟⣿⡇⠀⠀⠻⣧⠀⠛⠀⡘⠏
-⠈⢿⡆⠉⠛⠁⡷⠁⠀⠀⠀⠉⠳⣦⣮⠁⠀
-⠀⠀⠛⢷⣄⣼⠃⠀⠀⠀⠀⠀⠀⠉⠀⠠⡧
-⠀⠀⠀⠀⠉⠋⠀⠀⠀⠠⡥⠄⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⡏⢰⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⣏⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⣏⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⡯⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡴⢞⡽⠛⠻⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢋⣽⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⡧⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡴⠋⡴⣿⡄⠀⠀⠘⣇⠀⠀⠀⠀⠀⢠⣤⣤⡄⠘⠛⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⡇⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠀⠀⠀⣀⣀⣀⡞⢀⡼⣹⣿⣿⣗⡀⠀⢻⡆⠀⠀⠀⠀⠀⣰⣿⣤⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⣷⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⣴⢻⠾⠛⠉⠀⠀⠀⠢⠼⠁⠾⠱⣫⣿⣻⣷⠘⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⡟⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡴⠛⠈⣁⣔⠶⡄⠀⢦⠀⠀⠀⠀⠀⠀⠀⠈⠛⠽⣶⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⣿⢈⡄⠀⠀⠀⠀⠀⠀⠀⣀⣠⣤⣤⣤⣤⠏⠀⠀⣠⠙⡌⠀⠘⣆⠈⡇⢠⣶⡄⠀⠀⠀⠀⠀⠀⠀⠉⠻⣟⣶⣶⠀⣀⣤⣶⡤⣶⠦⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⣿⢘⡄⠀⠀⠀⠀⣴⣶⣭⣽⡒⠒⠒⠲⣄⡀⠀⠰⡑⢆⠘⢦⠀⠸⠀⠉⠀⠉⠁⠀⠀⠀⢀⡄⠀⠀⠀⠀⠠⢽⣿⣯⣁⡀⠀⠀⢀⣀⠹⠿⡟⡙⠲⣦⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⣀⣿⢸⠀⠀⠀⠀⠸⣿⠀⠀⢉⣹⣷⣦⣄⠀⠀⠀⠀⡈⠛⢦⠀⠓⠺⠀⠀⠀⠀⠀⠀⢀⣤⣿⠗⠒⠐⠂⠀⠀⣀⣼⠇⠈⠉⠀⣢⠟⠁⣨⠟⠁⠉⠁⠙⠿⢿⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠂⠀⣀⣉⣿⣼⣄⠀⠀⠀⠀⠻⣷⡀⢨⣿⣿⡿⣏⠀⠀⠀⠸⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠛⠛⡟⠀⢀⣠⡤⠖⠚⠋⢉⣿⠀⠀⠀⠾⠥⠔⠊⠁⠀⠀⠀⠀⠀⠀⢀⡹⣷⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠛⠊⠉⠉⠁⠀⠉⠛⠲⢤⣤⡀⠙⢿⣮⣽⣷⣫⣽⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣶⣦⠀⠀⠀⠙⠢⠿⠧⠤⠤⠤⣤⣾⣁⢀⣠⣤⠤⠤⠤⠤⣄⠀⠀⠀⠀⣀⠴⠋⠀⠀⠹⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⢀⣀⣀⣀⠤⠤⠼⠻⣦⠈⠙⠾⣧⣏⢹⡀⠀⠀⠀⠀⣀⣤⡾⠀⠀⠘⠛⢿⣇⣀⡀⠀⠀⠀⠀⠀⠀⠀⣴⣟⣴⡶⠛⠁⠀⠀⠀⢀⠀⢤⡒⠒⠚⠉⠁⠀⠀⠀⠀⠀⠙⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠉⠉⠁⠀⠀⠀⠀⠀⠀⡗⠀⠀⢀⣨⡏⢨⡇⠀⠘⣿⠿⠛⠛⠢⡀⠀⠀⠀⠞⠁⠀⠀⠀⠀⠀⠀⢀⣠⢾⣿⡿⠁⠀⠀⠀⣠⣖⣫⣟⢄⠀⠙⠢⠄⠀⠀⠀⠀⠀⠀⠀⠐⢿⣦⣀⡀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⢀⣀⣀⣀⣤⡤⠴⠞⢁⡴⠞⢋⡟⣁⣼⠃⠀⣞⣁⡤⣴⢶⣰⠁⠀⠀⠀⠀⠀⣀⣀⣀⣀⣤⣶⠿⠁⣿⣿⠃⠀⠀⠀⠀⠻⣿⣾⣥⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣷⢬⣙⠳⢦⣀⠀⠀⠀⠀
-⠆⠀⠀⠛⠋⠉⠉⠀⠀⠀⢀⡴⠋⠀⠀⠘⢻⡟⣯⡤⠞⠋⣡⡴⠿⠛⠁⠀⣀⣤⠶⠾⢛⠋⢉⣉⠁⠀⠀⠀⣰⣿⡟⠀⠀⠀⠀⠀⠀⠀⠈⠘⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣄⣿⣲⣌⠙⠒⠮⣷⣆⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡏⠀⠀⢠⣱⢆⠈⢻⡿⢶⣶⣾⣯⣤⣀⣀⣴⠞⠋⠀⠀⠀⠈⠣⡀⠈⢳⠀⠀⠀⢉⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⢀⠀⠀⠀⢰⠸⣿⠘⠙⣷⣣⡄⠀⠘⣧⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣠⠖⠀⠀⠸⣿⡀⣸⣦⡞⠀⣼⠋⠙⢃⡟⠁⣀⠀⠀⠂⠀⠀⠀⠙⣀⣬⠴⠾⠿⠿⠏⠛⠷⠿⣿⣷⣶⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⡤⣠⠟⠀⢠⣿⡾⣶⡟⠀⣠⣾⠃⠀⠐⣆⢸⡀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠈⠳⣯⣿⣧⣀⣧⡀⠀⣸⡥⣾⠁⢀⡴⠃⣀⣤⠶⠋⠁⣀⠤⣀⣀⢀⡀⠀⠀⠀⠈⠉⠁⡀⠩⠿⢶⣤⣀⣀⣀⣠⠄⠀⠀⠀⠀⠉⠸⣽⣿⣣⣶⠟⠁⠀⠀⠀⢿⢿⡇
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⢺⠀⠀⢠⡞⣶⡶⠆⠈⠙⠓⢮⣉⣉⠉⠙⢷⣿⣀⢸⡅⣸⡿⠋⢑⣾⢟⣻⠟⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠃⠀⠀⠀⠀⠉⠙⠛⠋⠀⠀⠀⠀⠀⣀⣼⡿⠟⠋⠀⠀⠀⠉⢷⠀⠀⠘⡇
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⢽⠀⠀⠘⠸⡋⠀⠀⠀⠀⠀⠀⠀⠉⠉⠓⠒⠿⠿⣿⡿⠋⠀⣠⢺⣿⡍⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⣤⡶⠶⠚⠋⠉⠁⠀⠀⠀⠀⠀⠀⠀⠛⠀⠀⢀⡇
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⠃⢠⢾⠏⠉⠀⠋⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣴⠶⠛⣩⠝⠉⠀⢤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⣸⡎⠀⠀⠀⠀⠙⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⡶⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⢳⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠇
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⡆⡏⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣦⠀⣴⡿⠋⠀⠀⠀⣤⣀⠀⠀⠀⠀⠀⠀⠘⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣨⣯⡾⠟⠀⠀⠀⠀⠀⠈⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⡄⠀⠀⠀⠀⠈⠻⣿⣶⣄⠀⠀⠀⢀⣠⣠⣴⣴⠿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡟⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠳⣿⣄⡀⠀⠀⠀⠀⠀⠙⠛⠻⠶⠾⠿⠛⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⣠⠟⠁⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢶⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⠾⠋⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⠶⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⡤⠾⠋⠁⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠙⠻⢶⣤⣄⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣠⣤⠶⠟⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠛⠛⠲⠶⢶⣤⣤⣤⣄⣀⣀⣀⣀⣀⣻⡀⢀⡀⣀⣀⣀⣀⣀⣠⣤⣤⣤⣴⡶⠶⠞⠛⠛⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡹⣟⡏⠛⠛⠛⠋⠉⢉⠉⠉⠩⠋⣻⣯⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠳⣌⣻⠙⠓⠒⠒⠒⠒⠒⠒⠒⠛⣫⣫⡵⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡕⠦⣝⣉⠉⠒⠒⠒⠒⠒⠒⠛⢻⣉⣥⠶⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣍⠒⣶⢬⣍⣉⣉⣁⡈⣉⣉⣉⣭⣵⠖⢚⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣌⡙⢺⠦⠤⣬⣭⣉⣉⣉⣭⡤⠾⠞⠚⣋⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡦⣉⡛⠒⢂⣤⣤⣤⣤⣤⠤⠤⠖⠒⣋⣉⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+## 0.7 ~ `outside the loop`
 
-</pre>
-
-<div align="center">
-<h2> 📥 <b> 𝐇𝐎𝐖 𝐓𝐎 𝐑𝐄𝐀𝐂𝐇 𝐌𝐄 </b> 📤 </h2>
+<details>
+<summary>✦ a few things that make me, me ✦
   
-</div>
+  drop this down if u're really that curious ;>
+</summary>
 
-          ✉️ 𝙴𝚖𝚊𝚒𝚕: 𝚌𝚑𝚎𝚜𝚝𝚒𝚗𝚎𝚖𝚊𝚢𝚌𝚊𝚋𝚒𝚜𝚘@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖
-          ✌︎ 𝚂𝚘𝚌𝚒𝚊𝚕𝚜: 𝚌𝚑𝚎𝚜𝚝𝚒𝚗𝚎𝚌𝚊𝚋𝚒𝚜𝚘
-          🌐 𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘: [𝚠𝚘𝚛𝚔-𝚒𝚗-𝚙𝚛𝚘𝚐𝚛𝚎𝚜𝚜]
+graphic designer by instinct, developer by curiosity.
+finds little stories in ordinary things.
+a road hump enthusiast, apparently. even obstacles have a purpose.
+collects thoughts like seashells, some pretty, some just because.
+drawn to imperfect things that were made with intention.
+believes slowing down is still a way of moving forward.
+sentimental over places, flavors, and things that feel like home.
+has a habit of turning random thoughts into reflections.
+would rather ask “why not?” than wait for the perfect reason.
+a little fond of uncertainties, unfinished things, and unexpected beginnings.
+not every idea needs to become something. sometimes, it just needs to exist.
+quietly figuring things out, one little thought at a time.
 
+> somewhere between “just because” and “why not,” there is always something worth creating.
+
+</details>
+
+## 0.8 ~ `let's connect!`
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/cabiso.chestine) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chestinecabiso) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chestine-cabiso)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shes_teen) 
+i'm always open to creative collaborations, learning opportunities, and projects that let me combine design with technology.
+
+[![Email](https://img.shields.io/badge/EMAIL-1D4ED8?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:chestinemaycabiso@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/chestine-cabiso)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-1D4ED8?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/chestinecabiso)
+[![Facebook](https://img.shields.io/badge/FACEBOOK-2563EB?style=for-the-badge\&logo=facebook\&logoColor=white)](https://facebook.com/cabiso.chestine)
+[![X](https://img.shields.io/badge/X-1D4ED8?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/shes_teen)
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&size=17\&duration=2800\&pause=900\&color=60A5FA\&center=true\&vCenter=true\&width=500\&lines=come+on+vamonoz+evribadi+lessgaww!)](https://git.io/typing-svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,50:1D4ED8,100:0B1220&height=110&section=footer" width="100%"/>
 
 </div>
-
