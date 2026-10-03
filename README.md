@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&size=17\&duration=2800\&pause=900\&color=60A5FA\&center=true\&vCenter=true\&width=500\&lines=designing+with+curiosity;building+things+with+code;learning+by+making+mistakes;one+little+commit+at+a+time)](https://git.io/typing-svg)
 
-### `chestine cabiso` · `coding-chez`
-
 *creative thinker. code explorer. still figuring things out, one commit at a time.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-coding--chez-1D4ED8?style=flat-square\&logo=github)](https://github.com/coding-chez)
@@ -16,7 +14,7 @@
 ## 0.1 ~ `a little about me`
 
 ```text
-name       chestine may cabiso
+name       chestine may mari cabiso
 alias      chez / coding-chez
 currently  3rd year it student
 school     cebu institute of technology-university
