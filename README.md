@@ -1,6 +1,6 @@
 <h1 align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Libre+Baskerville&size=30&duration=1500&pause=300&color=BF64F7&center=true&vCenter=true&width=435&lines=helaur+helaur!;i'm+coding+chez+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%E2%98%86!;c'mon+vomanos%E2%80%93;evribadi+lessgaww!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Libre+Baskerville&size=30&duration=1500&pause=300&color=BF64F7&center=true&vCenter=true&width=435&lines=helaur+helaur!;i'm+chestine+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%E2%98%86!;c'mon+vomanos%E2%80%93;evribadi+lessgaww!!)](https://git.io/typing-svg)
 </h1>
 
 <p align="center">
@@ -34,6 +34,7 @@
 ![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -43,10 +44,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=plastic&logo=Adobe%20Photoshop&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=plastic&logo=Figma&logoColor=white) 
-![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=plastic&logo=Dribbble&logoColor=white) 
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
-![Steam](https://img.shields.io/badge/Steam-%23000000.svg?style=plastic&logo=steam&logoColor=white)
 
 </div>
 
