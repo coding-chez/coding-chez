@@ -10,7 +10,8 @@
 <img width="380" height="222" alt="tumblr_a32eef3c6cc2389c254a22ef06b3259b_a4c2b152_400" src="https://github.com/user-attachments/assets/76bc2ae2-5e90-4cea-9a62-27627cd72abb" /><img width="380" height="222" alt="tumblr_db3f5c9256cc764eeb9c646f21bf3d3f_86d7af99_540" src="https://github.com/user-attachments/assets/0a52ed8a-d676-4fdd-8966-dce9383bf429" />
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-coding--chez-1D4ED8?style=flat-square\&logo=github)](https://github.com/coding-chez) [![Profile Views](https://komarev.com/ghpvc/?username=coding-chez\&style=flat-square\&color=2563EB\&label=PROFILE+VIEWS)](https://github.com/coding-chez)
+[![GitHub](https://img.shields.io/badge/GitHub-coding--chez-1D4ED8?style=flat-square\&logo=github)](https://github.com/coding-chez) 
+[![Profile Views](https://komarev.com/ghpvc/?username=coding-chez\&style=flat-square\&color=2563EB\&label=PROFILE+VIEWS)](https://github.com/coding-chez)
 
 </div>
 
