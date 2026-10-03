@@ -2,12 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,40:1D4ED8,100:60A5FA&height=220&section=header&text=Hello,%20I'm%20Chestine!&fontSize=48&fontColor=EAF4FF&fontAlignY=38&desc=welcome%20to%20my%20little%20corner%20of%20the%20internet%20%E2%98%86&descSize=14&descAlignY=60" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&size=17\&duration=2800\&pause=900\&color=60A5FA\&center=true\&vCenter=true\&width=500\&lines=designing+with+curiosity;building+things+with+code;learning+by+making+mistakes;one+little+commit+at+a+time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&size=17\&duration=2800\&pause=900\&color=60A5FA\&center=true\&vCenter=true\&width=500\&lines=somewhere+between+curiosity+and+creation;there's+always+something+worth+making;and+if+there's+nothing+to+make...;well%2C+why+not%3F)](https://git.io/typing-svg)
+
 
 *creative thinker. code explorer. still figuring things out, one commit at a time.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-coding--chez-1D4ED8?style=flat-square\&logo=github)](https://github.com/coding-chez)
-[![Profile Views](https://komarev.com/ghpvc/?username=coding-chez\&style=flat-square\&color=2563EB\&label=PROFILE+VIEWS)](https://github.com/coding-chez)
+<img width="500" height="222" alt="tumblr_a32eef3c6cc2389c254a22ef06b3259b_a4c2b152_400" src="https://github.com/user-attachments/assets/76bc2ae2-5e90-4cea-9a62-27627cd72abb" /><img width="500" height="222" alt="tumblr_db3f5c9256cc764eeb9c646f21bf3d3f_86d7af99_540" src="https://github.com/user-attachments/assets/0a52ed8a-d676-4fdd-8966-dce9383bf429" />
+
+
+[![GitHub](https://img.shields.io/badge/GitHub-coding--chez-1D4ED8?style=flat-square\&logo=github)](https://github.com/coding-chez)[![Profile Views](https://komarev.com/ghpvc/?username=coding-chez\&style=flat-square\&color=2563EB\&label=PROFILE+VIEWS)](https://github.com/coding-chez)
 
 </div>
 
@@ -19,7 +22,6 @@ alias      chez / coding-chez
 currently  3rd year it student
 school     cebu institute of technology-university
 based in   cordova, cebu
-
 ```
 <div align="center">
   
@@ -43,7 +45,7 @@ don't necessarily have everything figured out yet, but always collecting experie
 
 <div align="center">
 
-### programming & development
+### programming & development 
 
 ![Java](https://img.shields.io/badge/Java-2563EB?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1D4ED8?style=for-the-badge\&logo=javascript\&logoColor=white)
@@ -81,11 +83,11 @@ don't necessarily have everything figured out yet, but always collecting experie
 
 *little ideas, school projects, and experiments currently finding their shape.*
 
-| Project          | Description                                                                                            | Stack                |     Status    |
-| :--------------- | :----------------------------------------------------------------------------------------------------- | :------------------- | :-----------: |
-| **Cabana**       | a dormitory management system concept for organizing boarding house operations and tenant information. | Java · JavaFX        | `development` |
-| **WildcatsKnow** | a searchable, student-oriented FAQ platform for navigating common CIT-U questions and resources.       | Web technologies     |   `concept`   |
-| **Isdali**       | a lightweight seafood stock and price visibility concept for wet-market buyers and vendors.            | Web technologies     |   `concept`   |
+| Project          | Description                                                                                            |     Status    |
+| :--------------- | :----------------------------------------------------------------------------------------------------- | :-----------: |
+| **Cabana**       | a dormitory management system concept for organizing boarding house operations and tenant information. | `development` |
+| **WildcatsKnow** | a searchable, student-oriented FAQ platform for navigating common CIT-U questions and resources.       |   `concept`   |
+| **Isdali**       | a lightweight seafood stock and price visibility concept for wet-market buyers and vendors.            |   `concept`   | 
 
 > project statuses reflect my development notes, not verified GitHub commit activity. the concepts are included as part of my current creative exploration.
 
@@ -93,12 +95,15 @@ don't necessarily have everything figured out yet, but always collecting experie
 
 *completed/ongoing school or personal projects.*
 
-| Repository                                                    | What it is                                                   | Language |               Directory                           |
-| :------------------------------------------------------------ | :----------------------------------------------------------- | :------- | :-----------------------------------------------: |
-| [OOP2-Capstone](https://github.com/coding-chez/OOP2-Capstone) | TypeWiz — a Typer Shark-inspired game with a wizardry twist. | Java     | [↗](https://github.com/coding-chez/OOP2-Capstone) |
-| [deck-of-codes](https://github.com/coding-chez/deck-of-codes) | a compilation of coding activities and academic exercises.   | Assembly | [↗](https://github.com/coding-chez/deck-of-codes) |
-| [OperationBoom](https://github.com/coding-chez/OperationBoom) | mobile development final project.                            | Kotlin   | [↗](https://github.com/coding-chez/OperationBoom) |
+<div align="center">
+  
+| Repository                                                    | What it is                                                   |               Directory                           |
+| :------------------------------------------------------------ | :----------------------------------------------------------- | :-----------------------------------------------: |
+| [OOP2-Capstone](https://github.com/coding-chez/OOP2-Capstone) | TypeWiz — a Typer Shark-inspired game with a wizardry twist. | [↗](https://github.com/coding-chez/OOP2-Capstone) |
+| [deck-of-codes](https://github.com/coding-chez/deck-of-codes) | a compilation of coding activities and academic exercises.   | [↗](https://github.com/coding-chez/deck-of-codes) |
+| [OperationBoom](https://github.com/coding-chez/OperationBoom) | mobile development final project.                            | [↗](https://github.com/coding-chez/OperationBoom) |
 
+</div>
 
 <div align="center">
 
