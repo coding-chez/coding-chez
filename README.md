@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,40:1D4ED8,100:60A5FA&height=220&section=header&text=Hello,%20I'm%20Chestine!&fontSize=48&fontColor=EAF4FF&fontAlignY=38&desc=welcome%20to%20my%20little%20corner%20of%20the%20internet%20%E2%98%86&descSize=14&descAlignY=60" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0F172A,50:2563EB,100:60A5FA&section=header&reversal=false&text=Hello%2C%20I'm%20Chestine!&textBg=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=45&rotate=0&stroke=2563EB&strokeWidth=2&desc=welcome%20to%20my%20little%20corner%20of%20the%20internet&descSize=20&descColor=BFDBFE&descAlign=50&descAlignY=62)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&size=17\&duration=2800\&pause=900\&color=60A5FA\&center=true\&vCenter=true\&width=500\&lines=somewhere+between+curiosity+and+creation;there's+always+something+worth+making;and+if+there's+nothing+to+make...;well%2C+why+not%3F)](https://git.io/typing-svg)
-
 
 *creative thinker. code explorer. still figuring things out, one commit at a time.*
 
