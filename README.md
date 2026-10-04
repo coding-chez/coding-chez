@@ -12,7 +12,7 @@
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-coding--chez-1D4ED8?style=flat-square\&logo=github)](https://github.com/coding-chez)
-[![Profile Views](https://komarev.com/ghpvc/?username=coding-chez\&style=flat-square\&color=2563EB\&label=PROFILE+VIEWS)](https://github.com/coding-chez)
+[![Profile Views](https://komarev.com/ghpvc/?username=coding-chez\&style=flat-square\&color=2563EB\&label=Profile+Views)](https://github.com/coding-chez)
 
 </div>
 
