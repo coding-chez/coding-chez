@@ -47,37 +47,55 @@ don't necessarily have everything figured out yet, but always collecting experie
 
 <div align="center">
 
-### programming & development 
+### languages
 
-![Java](https://img.shields.io/badge/Java-2563EB?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1D4ED8?style=for-the-badge\&logo=javascript\&logoColor=white)
-![C](https://img.shields.io/badge/C-2563EB?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-1D4ED8?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-2563EB?style=for-the-badge\&logo=csharp\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-1D4ED8?style=for-the-badge\&logo=python\&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-2563EB?style=for-the-badge\&logo=kotlin\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-1D4ED8?style=for-the-badge\&logo=php\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-2563EB?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1D4ED8?style=for-the-badge\&logo=css3\&logoColor=white)
+![AssemblyScript](https://img.shields.io/badge/AssemblyScript-0B1F3A?style=for-the-badge&logo=assemblyscript&logoColor=BFDBFE)
+![C](https://img.shields.io/badge/C-123B63?style=for-the-badge&logo=c&logoColor=BFE3FF)
+![C%23](https://img.shields.io/badge/C%23-174A78?style=for-the-badge&logo=csharp&logoColor=BFDBFE)
+![C%2B%2B](https://img.shields.io/badge/C%2B%2B-1D4E89?style=for-the-badge&logo=c%2B%2B&logoColor=BFDBFE)
+![CSS3](https://img.shields.io/badge/CSS3-2563A8?style=for-the-badge&logo=css3&logoColor=EAF4FF)
+![HTML5](https://img.shields.io/badge/HTML5-3B82C4?style=for-the-badge&logo=html5&logoColor=EAF4FF)
+![Java](https://img.shields.io/badge/Java-4A90C2?style=for-the-badge&logo=openjdk&logoColor=EAF4FF)
+![Kotlin](https://img.shields.io/badge/Kotlin-5B8DEF?style=for-the-badge&logo=kotlin&logoColor=FFFFFF)
+![Markdown](https://img.shields.io/badge/Markdown-64748B?style=for-the-badge&logo=markdown&logoColor=EAF4FF)
+![PHP](https://img.shields.io/badge/PHP-6B8CC4?style=for-the-badge&logo=php&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-5B8DB8?style=for-the-badge&logo=python&logoColor=EAF4FF)
+![PowerShell](https://img.shields.io/badge/PowerShell-4F8EDC?style=for-the-badge&logo=powershell&logoColor=FFFFFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-3B82C4?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
 
-### frameworks, databases & tools
+### cloud ++ deployment
 
-![React](https://img.shields.io/badge/React-2563EB?style=for-the-badge\&logo=react\&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-1D4ED8?style=for-the-badge\&logo=java\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-2563EB?style=for-the-badge\&logo=springboot\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-1D4ED8?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-2563EB?style=for-the-badge\&logo=firebase\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-1D4ED8?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-2563EB?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-1D4ED8?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-0B1220?style=for-the-badge&logo=vercel&logoColor=BFDBFE)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-3B73C4?style=for-the-badge&logo=google-cloud&logoColor=EAF4FF)
+![AWS](https://img.shields.io/badge/AWS-5B8DB8?style=for-the-badge&logo=amazon-aws&logoColor=EAF4FF)
 
-### design & creative tools
+### frameworks && technologies
 
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-2563EB?style=for-the-badge\&logo=adobeillustrator\&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-1D4ED8?style=for-the-badge\&logo=adobephotoshop\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-2563EB?style=for-the-badge\&logo=figma\&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-1D4ED8?style=for-the-badge\&logo=canva\&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-2563EB?style=for-the-badge\&logo=notion\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-183B63?style=for-the-badge&logo=.net&logoColor=BFDBFE)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-365F91?style=for-the-badge&logo=bootstrap&logoColor=EAF4FF)
+![JavaFX](https://img.shields.io/badge/JavaFX-3B6FA5?style=for-the-badge&logo=javafx&logoColor=EAF4FF)
+![jQuery](https://img.shields.io/badge/jQuery-2F6FAE?style=for-the-badge&logo=jquery&logoColor=EAF4FF)
+![NodeJS](https://img.shields.io/badge/Node.js-39739D?style=for-the-badge&logo=node.js&logoColor=EAF4FF)
+![Apache](https://img.shields.io/badge/Apache-315A80?style=for-the-badge&logo=apache&logoColor=BFDBFE)
+![Spring](https://img.shields.io/badge/Spring-3F7F9F?style=for-the-badge&logo=spring&logoColor=EAF4FF)
+![React](https://img.shields.io/badge/React-164E70?style=for-the-badge&logo=react&logoColor=8ED8FF)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3282B8?style=for-the-badge&logo=tailwind-css&logoColor=EAF4FF)
+![Vite](https://img.shields.io/badge/Vite-5578C9?style=for-the-badge&logo=vite&logoColor=EAF4FF)
+![MySQL](https://img.shields.io/badge/MySQL-356C8C?style=for-the-badge&logo=mysql&logoColor=EAF4FF)
+![Firebase](https://img.shields.io/badge/Firebase-4F82B8?style=for-the-badge&logo=firebase&logoColor=EAF4FF)
+
+### design == tools
+
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-1D4E89?style=for-the-badge&logo=adobe-illustrator&logoColor=BFDBFE)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-2563A8?style=for-the-badge&logo=adobe-photoshop&logoColor=EAF4FF)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-3B82C4?style=for-the-badge&logo=adobe-lightroom&logoColor=EAF4FF)
+![Canva](https://img.shields.io/badge/Canva-4A9FD8?style=for-the-badge&logo=canva&logoColor=EAF4FF)
+![Figma](https://img.shields.io/badge/Figma-5B8FD1?style=for-the-badge&logo=figma&logoColor=EAF4FF)
+![Dribbble](https://img.shields.io/badge/Dribbble-6B9BD2?style=for-the-badge&logo=dribbble&logoColor=EAF4FF)
+![Git](https://img.shields.io/badge/Git-28527A?style=for-the-badge&logo=git&logoColor=BFDBFE)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=BFDBFE)
+![Notion](https://img.shields.io/badge/Notion-1E293B?style=for-the-badge&logo=notion&logoColor=BFDBFE)
+![Cisco](https://img.shields.io/badge/Cisco-4B8CC5?style=for-the-badge&logo=cisco&logoColor=EAF4FF)
 
 </div>
 
@@ -87,7 +105,8 @@ don't necessarily have everything figured out yet, but always collecting experie
 
 | Project          | Description                                                                                            |     Status    |
 | :--------------- | :----------------------------------------------------------------------------------------------------- | :-----------: |
-| **Cabana**       | a dormitory management system concept for organizing boarding house operations and tenant information. | `development` |
+| **imperfect-maybes**| a little space for unfinished thoughts, quiet questions, and everything in between.                 | `on dev`      |             
+| **Cabana**       | a dormitory management system concept for organizing boarding house operations and tenant information. | `complied` |
 | **WildcatsKnow** | a searchable, student-oriented FAQ platform for navigating common CIT-U questions and resources.       |   `concept`   |
 | **Isdali**       | a lightweight seafood stock and price visibility concept for wet-market buyers and vendors.            |   `concept`   | 
 
@@ -116,11 +135,11 @@ don't necessarily have everything figured out yet, but always collecting experie
 ## 0.5 ~ `git stats`
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=coding-chez&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=3B82F6&text_color=BFDBFE&ring_color=60A5FA&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=coding-chez&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=3B82F6&text_color=BFDBFE&ring_color=60A5FA&include_all_commits=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-chez&layout=compact&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=BFDBFE&langs_count=8" />
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=coding-chez&layout=compact&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=BFDBFE&langs_count=8" />
 
-<img src="https://streak-stats.demolab.com?user=coding-chez&theme=transparent&hide_border=true&ring=60A5FA&fire=3B82F6&currStreakLabel=60A5FA&sideLabels=BFDBFE&dates=94A3B8&currStreakNum=EAF4FF&sideNums=EAF4FF" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=coding-chez&theme=transparent&hide_border=true&ring=60A5FA&fire=3B82F6&currStreakLabel=60A5FA&sideLabels=BFDBFE&dates=94A3B8&currStreakNum=EAF4FF&sideNums=EAF4FF" width="70%"/>
 
 </div>
 
