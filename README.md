@@ -145,8 +145,8 @@ don't necessarily have everything figured out yet, but always collecting experie
 
 <div align="center">
   
-![github-user-contribution](https://github.com/user-attachments/assets/d16be20b-1608-4c1d-a83d-7ac52a6a2e7d)<h1 align="center">
-
+<img width="1166" height="184" alt="acrade-contributions (1)" src="https://github.com/user-attachments/assets/ff055feb-96ca-440c-86ff-f9a9df20b677" /><svg width="1166" height="184" xmlns="http://www.w3.org/2000/svg">
+                
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=coding-chez&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/coding-chez"
