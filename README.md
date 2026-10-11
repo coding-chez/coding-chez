@@ -27,7 +27,7 @@ based in   cordova, cebu
 ```
 <div align="center">
   
-a student who enjoys bringing ideas to life through a combination of design, code, and a little bit of imagination.
+enjoys bringing ideas to life.
 particularly interested in the intersection of **technology and visual creativity**.
 don't necessarily have everything figured out yet, but always collecting experiences, learning new things, and turning little ideas into something tangible.
 
