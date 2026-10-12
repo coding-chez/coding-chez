@@ -43,7 +43,7 @@ don't necessarily have everything figured out yet, but always collecting experie
 
 > still a work in progress, and that's kind of the point.
 
-## 0.2 ~ `my creative + technical toolkit`
+## 0.2 ~ `tech-itty clackity stack`
 
 <div align="center">
 
