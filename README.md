@@ -105,7 +105,7 @@ don't necessarily have everything figured out yet, but always collecting experie
 
 | Project          | Description                                                                                            |     Status    |
 | :--------------- | :----------------------------------------------------------------------------------------------------- | :-----------: |
-| **imperfect-maybes**| a little space for unfinished thoughts, quiet questions, and everything in between.                 | `on dev`      |             
+| [**imperfect-maybes**](https://github.com/coding-chez/imperfect-maybes)| a little space for unfinished thoughts, quiet questions, and everything in between.                 | `on dev`      |             
 | **Cabana**       | a dormitory management system concept for organizing boarding house operations and tenant information. | `complied` |
 | **WildcatsKnow** | a searchable, student-oriented FAQ platform for navigating common CIT-U questions and resources.       |   `concept`   |
 | **Isdali**       | a lightweight seafood stock and price visibility concept for wet-market buyers and vendors.            |   `concept`   | 
