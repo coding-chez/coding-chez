@@ -169,7 +169,7 @@ don't necessarily have everything figured out yet, but always collecting experie
 
 ## 0.6 ~ `witching hour`
 
-*since we don't want ourselves to be a prisoner of only one duty...*
+*since we don't want ourselves to be a prisoner of only one duty....*
 
 <div align="center">
 
