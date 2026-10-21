@@ -146,7 +146,7 @@ don't necessarily have everything figured out yet, but always collecting experie
 
 <div align="center">
                      
-<img width="1166" height="184" alt="acrade-contributions" src="https://github.com/user-attachments/assets/f160c494-8708-4294-ae0e-3edf7acd0be3" /><div align="center">
+<img width="1166" height="184" alt="acrade-contributions" src="https://github.com/user-attachments/assets/f160c494-8708-4294-ae0e-3edf7acd0be3" />
                 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=coding-chez&utm_content=farm">
 <img
