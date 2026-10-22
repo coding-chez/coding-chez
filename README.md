@@ -101,11 +101,11 @@ don't necessarily have everything figured out yet, but always collecting experie
 
 ## 0.3 ~ `projects i'm building`
 
-*little ideas, school projects, and experiments currently finding their shape.*
+*little ideas, private projects and experiments currently finding their shape.*
 
 | Project          | Description                                                                                            |     Status    |
 | :--------------- | :----------------------------------------------------------------------------------------------------- | :-----------: |
-| [**imperfect-maybes**](https://github.com/coding-chez/imperfect-maybes)| a little space for unfinished thoughts, quiet questions, and everything in between.                 | `on dev`      |             
+| [**imperfect-maybes**](https://github.com/coding-chez/imperfect-maybes)| a little space for unfinished thoughts, quiet questions, and everything in between.                 | `on dev`      |
 | **Cabana**       | a dormitory management system concept for organizing boarding house operations and tenant information. | `complied` |
 | **WildcatsKnow** | a searchable, student-oriented FAQ platform for navigating common CIT-U questions and resources.       |   `concept`   |
 | **Isdali**       | a lightweight seafood stock and price visibility concept for wet-market buyers and vendors.            |   `concept`   | 
@@ -114,7 +114,7 @@ don't necessarily have everything figured out yet, but always collecting experie
 
 ## 0.4 ~ `main/side projects` 
 
-*completed/ongoing school or personal projects.*
+*completed/ongoing school or public personal projects.*
 
 <div align="center">
   
@@ -123,6 +123,7 @@ don't necessarily have everything figured out yet, but always collecting experie
 | [OOP2-Capstone](https://github.com/coding-chez/OOP2-Capstone) | TypeWiz — a Typer Shark-inspired game with a wizardry twist. | [↗](https://github.com/coding-chez/OOP2-Capstone) |
 | [deck-of-codes](https://github.com/coding-chez/deck-of-codes) | a compilation of coding activities and academic exercises.   | [↗](https://github.com/coding-chez/deck-of-codes) |
 | [OperationBoom](https://github.com/coding-chez/OperationBoom) | mobile development final project.                            | [↗](https://github.com/coding-chez/OperationBoom) |
+| [chiikawa-cafe](https://github.com/coding-chez/chiikawa-cafe) | front-end focused industry elec 1 midterm project.           | [↗](https://github.com/coding-chez/chiikawa-cafe) |
 
 </div>
 
