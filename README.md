@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&size=17\&duration=2800\&pause=900\&color=60A5FA\&center=true\&vCenter=true\&width=500\&lines=somewhere+between+curiosity+and+creation;there's+always+something+worth+making;and+if+there's+nothing+to+make...;well%2C+why+not%3F)](https://git.io/typing-svg)
 
-*creative thinker. code explorer. still figuring things out, one commit at a time.*
+*part-time student. full-time figure-outer. just making, breaking, mending things, and hoping for the best.*
 
 
 <img width="380" height="222" alt="tumblr_a32eef3c6cc2389c254a22ef06b3259b_a4c2b152_400" src="https://github.com/user-attachments/assets/76bc2ae2-5e90-4cea-9a62-27627cd72abb" /><img width="380" height="222" alt="tumblr_db3f5c9256cc764eeb9c646f21bf3d3f_86d7af99_540" src="https://github.com/user-attachments/assets/0a52ed8a-d676-4fdd-8966-dce9383bf429" />
