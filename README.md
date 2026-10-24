@@ -36,9 +36,9 @@ don't necessarily have everything figured out yet, but always collecting experie
 ### things i'm growing into
 
 * 🎨 graphic design
-* 🖥️ ui/ux design & frontend development
-* 🎮 game development 
-* 🌐 web and application development
+* 🖥️ ui/ux design & frontend dev
+* 🎮 game dev 
+* 🌐 web and application dev
 * 🌍 aspiring digital nomad - working and exploring from anywhere in the world
 
 > still a work in progress, and that's kind of the point.
