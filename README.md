@@ -207,8 +207,6 @@ graphic designer by instinct, dev by curiosity, and someone who finds little sto
 
 <div align="center">
 
-i'm always open to creative collaborations, learning opportunities, and projects that let me combine design with technology.
-
 [![Email](https://img.shields.io/badge/EMAIL-1D4ED8?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:chestinemaycabiso@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/chestine-cabiso)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-1D4ED8?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/chestinecabiso)
