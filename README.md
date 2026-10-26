@@ -39,9 +39,9 @@ don't necessarily have everything figured out yet, but always collecting experie
 * 🖥️ ui/ux design & frontend dev
 * 🎮 game dev 
 * 🌐 web and application dev
-* 🌍 aspiring digital nomad - working and exploring from anywhere in the world
-
-> still a work in progress, and that's kind of the point.
+* 🌍 aspiring digital nomad
+  
+> the point is to progress and be part of that process.
 
 ## 0.2 ~ `tech-itty clackity stack`
 
