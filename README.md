@@ -28,7 +28,7 @@ based in   cordova, cebu
 <div align="center">
   
 enjoys bringing ideas to life.
-particularly interested in the intersection of **technology and visual creativity**.
+particularly interested in the intersection of **technology and creativity**.
 don't necessarily have everything figured out yet, but always collecting experiences, learning new things, and turning little ideas into something tangible.
 
 </div>
